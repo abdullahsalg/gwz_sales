@@ -6,4 +6,4 @@ SELECT
 FROM 
   `abdullahsdaproject.course14.gwz_sales`
 GROUP BY  date_date
-ORDER BY  sale_date
+ORDER BY  date_date
